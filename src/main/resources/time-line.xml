@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<graphml xmlns='http://graphml.graphdrawing.org/xmlns'>
+  <key id='labelV'  for='node' attr.name='labelV'  attr.type='string'></key>
+  <key id='labelE'  for='edge' attr.name='labelE'  attr.type='string'></key>
+  <key id='type'    for='node' attr.name='type'    attr.type='string'></key>
+  <key id='yearValue' for='node' attr.name='yearValue' attr.type='int'></key>
+  <key id='name'    for='node' attr.name='name'    attr.type='string'></key>
+  <key id='source' for='edge' attr.name='source' attr.type='string'></key>
+  <key id='reference' for='edge' attr.name='reference' attr.type='string'></key>
+  <key id='era' for='vertex' attr.name='era' attr.type='string'></key>
+  
+  <graph id='project-timeline' edgedefault='directed'>
+    <!-- Nodes -->
+    <node id='0'>
+      <data key='labelV'>version</data>
+      <data key='type'>version</data>
+      <data key='code'>0.1</data>
+      <data key='desc'>Version: 0.1 Generated: May-18-2023 Graph created by 
+          Affan Hasan</data>
+    </node>
+    <!-- Time Line Badges -->
+    <node id='1'>
+      <data key='labelV'>timeline_badge</data>
+      <data key='type'>hijri_year</data>
+      <data key='yearValue'>52</data>
+      <data key="era">BH</data>
+    </node>
+    <node id='2'>
+      <data key='labelV'>timeline_badge</data>
+      <data key='type'>hijri_year</data>
+      <data key='yearValue'>53</data>
+      <data key="era">BH</data>
+    </node>
+    <node id='7'>
+      <data key='labelV'>timeline_badge</data>
+      <data key='type'>hijri_year</data>
+      <data key='yearValue'>11</data>
+      <data key="era">AH</data>
+    </node>
+    <node id='3'>
+      <data key='labelV'>event</data>
+      <data key='type'>birth</data>
+      <data key='name'>Birth Of Prophet Muhammad S.A.W</data>
+    </node>
+    <node id='6'>
+      <data key='labelV'>event</data>
+      <data key='type'>death</data>
+      <data key='name'>Death Of Prophet Muhammad S.A.W</data>
+    </node>
+    <!-- Edges -->
+    <edge id='4' source='3' target='2'> 
+     <data key='labelE'>happened_in</data>
+      <data key='source'>wikipedia</data>
+      <data key='reference'>https://en.wikipedia.org/wiki/Muhammad</data>
+    </edge>
+    <edge id='5' source='3' target='2'>
+      <data key='labelE'>happened_in</data>
+      <data key='source'>The History Of Quranic Text From Revelation To Compilation By Mustafa Al Aazami</data>
+      <data key='reference'>Jan 2003 Page 23</data>
+    </edge>
+    <edge id='8' source='6' target='7'>
+      <data key='labelE'>happened_in</data>     
+      <data key='source'>The History Of Quranic Text From Revelation To Compilation By Mustafa Al Aazami</data>
+      <data key='reference'>Jan 2003 Page 23</data>
+    </edge>
+    <edge id='9' source='6' target='7'>
+      <data key='labelE'>happened_in</data>
+      <data key='source'>wikipedia</data>
+      <data key='reference'>https://en.wikipedia.org/wiki/Muhammad</data>
+    </edge>
+  </graph>
+</graphml>
