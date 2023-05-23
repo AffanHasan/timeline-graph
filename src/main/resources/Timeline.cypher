@@ -6,8 +6,9 @@ CREATE (BeforeHijri:BH)
 CREATE (AfterHijri:AH)
 CREATE (FiftyThreeYearsBH:Year {value:53})
 CREATE (EleventhYearAH:Year {value: 11})
-CREATE (TwelfthRabiUlAwwal11AH:Day {day: Monday, value: 12})
+CREATE (TwelfthRabiUlAwwal11AH:Day {day: 'Monday', value: 12})
 CREATE (RabiUlAwwal11AH:Month {name:'Rabi-Ul-Awwal'})
+CREATE (RaheeqUlMakhtoom:Book {name:'الرحيق المختوم',language:'Ar', author:'صفی الرحمان مبارک پوری', urduTranslation:'صفی الرحمان مبارک پوری', publisher:'ال مكتبة السلفية لاهور', publishedYear:'2021'})
 
 // --- Events
 CREATE (BirthOfLastProphet:Event {name:'Birth Of Last Prophet P.B.U.H'})
