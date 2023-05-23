@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="code" for="node" attr.name="code"/>
+<key id="name" for="node" attr.name="name"/>
+<key id="labels" for="node" attr.name="labels"/>
+<key id="era" for="edge" attr.name="era"/>
+<key id="name" for="edge" attr.name="name"/>
+<key id="label" for="edge" attr.name="label"/>
+<key id="source" for="edge" attr.name="source"/>
+<key id="type" for="edge" attr.name="type"/>
+<key id="languageCode" for="edge" attr.name="languageCode"/>
+<graph id="G" edgedefault="directed">
+<node id="n0" labels=":TimeLine"><data key="labels">:TimeLine</data><data key="name">Hijri</data></node>
+<node id="n1" labels=":Page"><data key="labels">:Page</data><data key="number">86</data></node>
+<node id="n2" labels=":Page"><data key="labels">:Page</data><data key="number">88</data></node>
+<node id="n3" labels=":Man"><data key="labels">:Man</data><data key="name">بحيرا</data></node>
+<node id="n4" labels=":Monastery"><data key="labels">:Monastery</data><data key="name">Monastery Of بحيرا</data></node>
+<node id="n5" labels=":City"><data key="labels">:City</data><data key="name">بصرى</data></node>
+<node id="n6" labels=":Region"><data key="labels">:Region</data><data key="name">حوران</data></node>
+<node id="n7" labels=":Country"><data key="labels">:Country</data><data key="name">Syria</data></node>
+<node id="n8" labels=":Year"><data key="labels">:Year</data><data key="value">41</data></node>
+<node id="n9" labels=":Event"><data key="labels">:Event</data><data key="name">Meeting Of بحيرا With The Last Prophet</data></node>
+<node id="n10" labels=":Country"><data key="labels">:Country</data><data key="name">Syria</data></node>
+<node id="n11" labels=":Year"><data key="labels">:Year</data><data key="value">41</data></node>
+<node id="n12" labels=":Arab:Man"><data key="labels">:Arab:Man</data><data key="name">ابو طالب</data></node>
+<node id="n14" labels=":Page"><data key="labels">:Page</data><data key="number">89</data></node>
+<node id="n15"><data key="labels">:TimeLine</data><data key="name">Hijri</data></node>
+<node id="n16"><data key="labels">:Page</data><data key="number">86</data></node>
+<node id="n17"><data key="labels">:Year</data><data key="value">50</data></node>
+<node id="n18"><data key="name">شق الصدر</data><data key="labels">:Event</data></node>
+<node id="n19"><data key="name">الرحيق المختوم</data><data key="labels">:Book:InformationSource</data></node>
+<node id="n20" labels=":Year"><data key="labels">:Year</data><data key="value">50</data></node>
+<node id="n21"><data key="labels">:Publisher</data><data key="name">ال مكتبة السلفية لاهور</data></node>
+<node id="n22" labels=":Page"><data key="labels">:Page</data><data key="number">89</data></node>
+<node id="n23"><data key="labels">:Language</data><data key="code">Ur</data></node>
+<node id="n24" labels=":Page"><data key="labels">:Page</data><data key="number">89</data></node>
+<node id="n25"><data key="labels">:Language</data><data key="code">En</data></node>
+<node id="n26" labels=":Page"><data key="labels">:Page</data><data key="number">89</data></node>
+<node id="n27" labels=":Event"><data key="labels">:Event</data><data key="name">Syrian Business Trip With ابو طالب</data></node>
+<node id="n28" labels=":Page"><data key="labels">:Page</data><data key="number">89</data></node>
+<node id="n29"><data key="labels">:Author</data><data key="name">صفی الرحمان مبارک پوری</data></node>
+<node id="n30" labels=":Event"><data key="labels">:Event</data><data key="name">شق الصدر</data></node>
+<node id="n31"><data key="labels">:Language</data><data key="code">Ar</data></node>
+<node id="n32"><data key="labels">:Year</data><data key="value">49</data></node>
+<node id="n33"><data key="labels">:Year</data><data key="value">48</data></node>
+<node id="n34"><data key="labels">:City</data><data key="name">مدينة</data></node>
+<node id="n35"><data key="labels">:Year</data><data key="value">47</data></node>
+<node id="n36"><data key="name">عبد المطلب</data><data key="labels">:Arab:Man</data></node>
+<node id="n37"><data key="labels">:Arab:Man</data><data key="name">عبدالله بن عبدالمطلب</data></node>
+<node id="n38"><data key="name">آمنة بنت وهب</data><data key="labels">:Arab:Mother:Woman</data></node>
+<node id="n39"><data key="name">ام ايمن</data><data key="labels">:Arab:Woman</data></node>
+<node id="n40" labels=":Book:InformationSource"><data key="labels">:Book:InformationSource</data><data key="name">الرحيق المختوم</data></node>
+<node id="n41" labels=":Publisher"><data key="labels">:Publisher</data><data key="name">ال مكتبة السلفية لاهور</data></node>
+<node id="n42" labels=":Language"><data key="labels">:Language</data><data key="code">Ur</data></node>
+<node id="n43" labels=":Language"><data key="labels">:Language</data><data key="code">En</data></node>
+<node id="n44" labels=":Author"><data key="labels">:Author</data><data key="name">صفی الرحمان مبارک پوری</data></node>
+<node id="n45" labels=":Language"><data key="labels">:Language</data><data key="code">Ar</data></node>
+<node id="n46"><data key="name">محمد بن عبدالله</data><data key="labels">:Arab:LastProphet:Man:Prophet</data></node>
+<node id="n47"><data key="labels">:Event</data><data key="name">Journey Of The Last Prophet Towards مدينة With His Mother</data></node>
+<node id="n48"><data key="name">الأبواء</data><data key="labels">:Village</data></node>
+<node id="n49"><data key="labels">:Event</data><data key="name">Death Of آمنة بنت وهب</data></node>
+<node id="n50"><data key="labels">:Event</data><data key="name">Last Prophet Under Guardianship Of عبد المطلب</data></node>
+<node id="n51"><data key="labels">:Page</data><data key="number">87</data></node>
+<node id="n52"><data key="labels">:TimeLine</data><data key="name">Hijri</data></node>
+<node id="n53"><data key="labels">:Page</data><data key="number">86</data></node>
+<node id="n54"><data key="labels">:Year</data><data key="value">50</data></node>
+<node id="n55"><data key="name">شق الصدر</data><data key="labels">:Event</data></node>
+<node id="n56"><data key="name">الرحيق المختوم</data><data key="labels">:Book:InformationSource</data></node>
+<node id="n57"><data key="labels">:Publisher</data><data key="name">ال مكتبة السلفية لاهور</data></node>
+<node id="n58"><data key="labels">:Language</data><data key="code">Ur</data></node>
+<node id="n59"><data key="labels">:Language</data><data key="code">En</data></node>
+<node id="n60"><data key="labels">:Author</data><data key="name">صفی الرحمان مبارک پوری</data></node>
+<node id="n61"><data key="labels">:Language</data><data key="code">Ar</data></node>
+<node id="n62"><data key="labels">:Year</data><data key="value">49</data></node>
+<node id="n63"><data key="labels">:Year</data><data key="value">48</data></node>
+<node id="n64"><data key="labels">:City</data><data key="name">مدينة</data></node>
+<node id="n65"><data key="labels">:Year</data><data key="value">47</data></node>
+<node id="n66"><data key="name">عبد المطلب</data><data key="labels">:Arab:Man</data></node>
+<node id="n67"><data key="labels">:Arab:Man</data><data key="name">عبدالله بن عبدالمطلب</data></node>
+<node id="n68"><data key="name">آمنة بنت وهب</data><data key="labels">:Arab:Mother:Woman</data></node>
+<node id="n69"><data key="name">ام ايمن</data><data key="labels">:Arab:Woman</data></node>
+<node id="n70"><data key="name">محمد بن عبدالله</data><data key="labels">:Arab:LastProphet:Man:Prophet</data></node>
+<node id="n71"><data key="labels">:Event</data><data key="name">Journey Of The Last Prophet Towards مدينة With His Mother</data></node>
+<node id="n72"><data key="name">الأبواء</data><data key="labels">:Village</data></node>
+<node id="n73"><data key="labels">:Event</data><data key="name">Death Of آمنة بنت وهب</data></node>
+<node id="n74"><data key="labels">:Event</data><data key="name">Last Prophet Under Guardianship Of عبد المطلب</data></node>
+<node id="n75"><data key="labels">:Page</data><data key="number">87</data></node>
+<node id="n112" labels=":Year"><data key="labels">:Year</data><data key="value">49</data></node>
+<node id="n113" labels=":Year"><data key="labels">:Year</data><data key="value">48</data></node>
+<node id="n114" labels=":City"><data key="labels">:City</data><data key="name">مدينة</data></node>
+<node id="n115" labels=":Year"><data key="labels">:Year</data><data key="value">47</data></node>
+<node id="n116" labels=":Arab:Man"><data key="labels">:Arab:Man</data><data key="name">عبد المطلب</data></node>
+<node id="n117" labels=":Arab:Man"><data key="labels">:Arab:Man</data><data key="name">عبدالله بن عبدالمطلب</data></node>
+<node id="n118" labels=":Arab:Mother:Woman"><data key="labels">:Arab:Mother:Woman</data><data key="name">آمنة بنت وهب</data></node>
+<node id="n119" labels=":Arab:Woman"><data key="labels">:Arab:Woman</data><data key="name">ام ايمن</data></node>
+<node id="n120" labels=":Arab:LastProphet:Man:Prophet"><data key="labels">:Arab:LastProphet:Man:Prophet</data><data key="name">محمد بن عبدالله</data></node>
+<node id="n121" labels=":Event"><data key="labels">:Event</data><data key="name">Journey Of The Last Prophet Towards مدينة With His Mother</data></node>
+<node id="n1422" labels=":Village"><data key="labels">:Village</data><data key="name">الأبواء</data></node>
+<node id="n1423" labels=":Event"><data key="labels">:Event</data><data key="name">Death Of آمنة بنت وهب</data></node>
+<node id="n1424" labels=":Event"><data key="labels">:Event</data><data key="name">Last Prophet Under Guardianship Of عبد المطلب</data></node>
+<node id="n1425" labels=":Page"><data key="labels">:Page</data><data key="number">87</data></node>
+<edge id="e0" source="n40" target="n2" label="PAGE"><data key="label">PAGE</data></edge>
+<edge id="e1" source="n1" target="n30" label="REFER_TO"><data key="label">REFER_TO</data></edge>
+<edge id="e2" source="n3" target="n4" label="LIVED_IN"><data key="label">LIVED_IN</data><data key="name">الرحيق المختوم</data><data key="page">88</data><data key="source">Book</data></edge>
+<edge id="e3" source="n4" target="n5" label="LOCATED_IN"><data key="label">LOCATED_IN</data><data key="name">الرحيق المختوم</data><data key="page">88</data><data key="source">Book</data></edge>
+<edge id="e4" source="n5" target="n6" label="LOCATED_IN"><data key="label">LOCATED_IN</data><data key="name">الرحيق المختوم</data><data key="page">88</data><data key="source">Book</data></edge>
+<edge id="e5" source="n2" target="n4" label="REFER_TO"><data key="label">REFER_TO</data></edge>
+<edge id="e6" source="n2" target="n3" label="REFER_TO"><data key="label">REFER_TO</data></edge>
+<edge id="e7" source="n0" target="n8" label="YEAR"><data key="label">YEAR</data><data key="type">BH</data></edge>
+<edge id="e8" source="n0" target="n11" label="YEAR"><data key="label">YEAR</data><data key="type">BH</data></edge>
+<edge id="e9" source="n0" target="n20" label="YEAR"><data key="label">YEAR</data><data key="type">BH</data></edge>
+<edge id="e10" source="n116" target="n12" label="FATHER_OF"><data key="label">FATHER_OF</data></edge>
+<edge id="e11" source="n40" target="n1" label="PAGE"><data key="label">PAGE</data></edge>
+<edge id="e12" source="n12" target="n120" label="UNCLE_OF"><data key="label">UNCLE_OF</data></edge>
+<edge id="e13" source="n40" target="n14" label="PAGE"><data key="label">PAGE</data></edge>
+<edge id="e14" source="n9" target="n4" label="HAPPENED_AT"><data key="label">HAPPENED_AT</data><data key="name">الرحيق المختوم</data><data key="page">88</data><data key="source">Book</data></edge>
+<edge id="e15" source="n9" target="n11" label="HAPPENED_IN"><data key="label">HAPPENED_IN</data><data key="name">الرحيق المختوم</data><data key="page">88</data><data key="source">Book</data></edge>
+<edge id="e16" source="n3" target="n9" label="MEET"><data key="label">MEET</data><data key="name">الرحيق المختوم</data><data key="page">88</data><data key="source">Book</data></edge>
+<edge id="e17" source="n118" target="n120" label="MOTHER_OF"><data key="label">MOTHER_OF</data></edge>
+<edge id="e18" source="n30" target="n20" label="HAPPENED_IN"><data key="label">HAPPENED_IN</data><data key="name">الرحيق المختوم</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e19" source="n0" target="n115" label="YEAR"><data key="label">YEAR</data><data key="type">BH</data></edge>
+<edge id="e20" source="n120" target="n9" label="MEET"><data key="label">MEET</data><data key="name">الرحيق المختوم</data><data key="page">88</data><data key="source">Book</data></edge>
+<edge id="e21" source="n0" target="n112" label="YEAR"><data key="label">YEAR</data><data key="type">BH</data></edge>
+<edge id="e22" source="n2" target="n9" label="REFER_TO"><data key="label">REFER_TO</data></edge>
+<edge id="e28" source="n119" target="n118" label="SLAVE_OF"><data key="label">SLAVE_OF</data><data key="name">الرحيق المختوم</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e29" source="n16" target="n18" label="REFER_TO"><data key="label">REFER_TO</data><data key="label">REFER_TO</data></edge>
+<edge id="e30" source="n15" target="n17" label="YEAR"><data key="label">YEAR</data><data key="label">YEAR</data><data key="type">BH</data></edge>
+<edge id="e31" source="n30" target="n112" label="HAPPENED_IN"><data key="label">HAPPENED_IN</data><data key="name">الرحيق المختوم</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e32" source="n19" target="n16" label="PAGE"><data key="label">PAGE</data><data key="label">PAGE</data></edge>
+<edge id="e33" source="n38" target="n46" label="MOTHER_OF"><data key="label">MOTHER_OF</data><data key="label">MOTHER_OF</data></edge>
+<edge id="e34" source="n18" target="n17" label="HAPPENED_IN"><data key="label">HAPPENED_IN</data><data key="name">الرحيق المختوم</data><data key="label">HAPPENED_IN</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e35" source="n15" target="n35" label="YEAR"><data key="label">YEAR</data><data key="label">YEAR</data><data key="type">BH</data></edge>
+<edge id="e36" source="n40" target="n45" label="LANGUAGE"><data key="label">LANGUAGE</data></edge>
+<edge id="e37" source="n44" target="n40" label="AUTHOR_OF"><data key="label">AUTHOR_OF</data></edge>
+<edge id="e38" source="n40" target="n42" label="LANGUAGE"><data key="label">LANGUAGE</data></edge>
+<edge id="e39" source="n44" target="n40" label="TRANSLATED"><data key="label">TRANSLATED</data><data key="languageCode">Ur</data></edge>
+<edge id="e40" source="n41" target="n40" label="PUBLISHED"><data key="label">PUBLISHED</data><data key="era">CE</data><data key="year">2021</data></edge>
+<edge id="e41" source="n0" target="n113" label="YEAR"><data key="label">YEAR</data><data key="type">BH</data></edge>
+<edge id="e42" source="n15" target="n32" label="YEAR"><data key="label">YEAR</data><data key="label">YEAR</data><data key="type">BH</data></edge>
+<edge id="e43" source="n39" target="n38" label="SLAVE_OF"><data key="label">SLAVE_OF</data><data key="name">الرحيق المختوم</data><data key="label">SLAVE_OF</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e44" source="n18" target="n32" label="HAPPENED_IN"><data key="label">HAPPENED_IN</data><data key="name">الرحيق المختوم</data><data key="label">HAPPENED_IN</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e45" source="n19" target="n31" label="LANGUAGE"><data key="label">LANGUAGE</data><data key="label">LANGUAGE</data></edge>
+<edge id="e46" source="n29" target="n19" label="AUTHOR_OF"><data key="label">AUTHOR_OF</data><data key="label">AUTHOR_OF</data></edge>
+<edge id="e47" source="n120" target="n121" label="TRAVEL"><data key="label">TRAVEL</data><data key="name">الرحيق المختوم</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e48" source="n19" target="n23" label="LANGUAGE"><data key="label">LANGUAGE</data><data key="label">LANGUAGE</data></edge>
+<edge id="e49" source="n29" target="n19" label="TRANSLATED"><data key="label">TRANSLATED</data><data key="languageCode">Ur</data><data key="label">TRANSLATED</data></edge>
+<edge id="e50" source="n30" target="n113" label="HAPPENED_IN"><data key="label">HAPPENED_IN</data><data key="name">الرحيق المختوم</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e51" source="n21" target="n19" label="PUBLISHED"><data key="label">PUBLISHED</data><data key="era">CE</data><data key="year">2021</data><data key="label">PUBLISHED</data></edge>
+<edge id="e52" source="n15" target="n33" label="YEAR"><data key="label">YEAR</data><data key="label">YEAR</data><data key="type">BH</data></edge>
+<edge id="e53" source="n46" target="n47" label="TRAVEL"><data key="label">TRAVEL</data><data key="name">الرحيق المختوم</data><data key="label">TRAVEL</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e54" source="n18" target="n33" label="HAPPENED_IN"><data key="label">HAPPENED_IN</data><data key="name">الرحيق المختوم</data><data key="label">HAPPENED_IN</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e55" source="n40" target="n22" label="PAGE"><data key="label">PAGE</data></edge>
+<edge id="e56" source="n121" target="n114" label="TRAVELED_TO"><data key="label">TRAVELED_TO</data><data key="name">الرحيق المختوم</data><data key="source">Book</data><data key="page">87</data></edge>
+<edge id="e57" source="n1" target="n121" label="REFER_TO"><data key="label">REFER_TO</data></edge>
+<edge id="e58" source="n47" target="n34" label="TRAVELED_TO"><data key="label">TRAVELED_TO</data><data key="name">الرحيق المختوم</data><data key="label">TRAVELED_TO</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e59" source="n116" target="n117" label="FATHER_OF"><data key="label">FATHER_OF</data></edge>
+<edge id="e60" source="n16" target="n47" label="REFER_TO"><data key="label">REFER_TO</data><data key="label">REFER_TO</data></edge>
+<edge id="e61" source="n36" target="n37" label="FATHER_OF"><data key="label">FATHER_OF</data><data key="label">FATHER_OF</data></edge>
+<edge id="e62" source="n47" target="n35" label="TRAVELED_IN"><data key="label">TRAVELED_IN</data><data key="name">الرحيق المختوم</data><data key="label">TRAVELED_IN</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e63" source="n37" target="n46" label="FATHER_OF"><data key="label">FATHER_OF</data><data key="label">FATHER_OF</data></edge>
+<edge id="e64" source="n40" target="n24" label="PAGE"><data key="label">PAGE</data></edge>
+<edge id="e65" source="n121" target="n115" label="TRAVELED_IN"><data key="label">TRAVELED_IN</data><data key="name">الرحيق المختوم</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e66" source="n47" target="n36" label="TRAVELED_WITH"><data key="label">TRAVELED_WITH</data><data key="name">الرحيق المختوم</data><data key="label">TRAVELED_WITH</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e67" source="n47" target="n38" label="TRAVELED_WITH"><data key="label">TRAVELED_WITH</data><data key="name">الرحيق المختوم</data><data key="label">TRAVELED_WITH</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e68" source="n117" target="n120" label="FATHER_OF"><data key="label">FATHER_OF</data></edge>
+<edge id="e69" source="n38" target="n37" label="WIFE_OF"><data key="label">WIFE_OF</data><data key="label">WIFE_OF</data></edge>
+<edge id="e70" source="n47" target="n39" label="TRAVELED_WITH"><data key="label">TRAVELED_WITH</data><data key="name">الرحيق المختوم</data><data key="label">TRAVELED_WITH</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e71" source="n38" target="n49" label="DEATH"><data key="label">DEATH</data><data key="label">DEATH</data></edge>
+<edge id="e72" source="n40" target="n26" label="PAGE"><data key="label">PAGE</data></edge>
+<edge id="e73" source="n49" target="n35" label="DIED_IN"><data key="label">DIED_IN</data><data key="name">الرحيق المختوم</data><data key="label">DIED_IN</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e74" source="n121" target="n116" label="TRAVELED_WITH"><data key="label">TRAVELED_WITH</data><data key="name">الرحيق المختوم</data><data key="source">Book</data><data key="page">87</data></edge>
+<edge id="e75" source="n120" target="n27" label="TRAVEL"><data key="label">TRAVEL</data></edge>
+<edge id="e76" source="n27" target="n8" label="TRAVELED_IN"><data key="label">TRAVELED_IN</data><data key="name">الرحيق المختوم</data><data key="page">89</data><data key="source">Book</data></edge>
+<edge id="e77" source="n27" target="n10" label="TRAVELED_TO"><data key="label">TRAVELED_TO</data><data key="name">الرحيق المختوم</data><data key="page">89</data><data key="source">Book</data></edge>
+<edge id="e78" source="n27" target="n12" label="TRAVELED_WITH"><data key="label">TRAVELED_WITH</data><data key="name">الرحيق المختوم</data><data key="page">89</data><data key="source">Book</data></edge>
+<edge id="e79" source="n40" target="n28" label="PAGE"><data key="label">PAGE</data></edge>
+<edge id="e80" source="n28" target="n27" label="REFER_TO"><data key="label">REFER_TO</data></edge>
+<edge id="e81" source="n49" target="n48" label="DEATH_PLACE"><data key="label">DEATH_PLACE</data><data key="name">الرحيق المختوم</data><data key="label">DEATH_PLACE</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e82" source="n36" target="n50" label="TOOK_GUARDIAN_SHIP_OF_LAST_PROPHET"><data key="label">TOOK_GUARDIAN_SHIP_OF_LAST_PROPHET</data><data key="label">TOOK_GUARDIAN_SHIP_OF_LAST_PROPHET</data></edge>
+<edge id="e83" source="n121" target="n118" label="TRAVELED_WITH"><data key="label">TRAVELED_WITH</data><data key="name">الرحيق المختوم</data><data key="source">Book</data><data key="page">87</data></edge>
+<edge id="e84" source="n50" target="n35" label="HAPPENED_IN"><data key="label">HAPPENED_IN</data><data key="name">الرحيق المختوم</data><data key="label">HAPPENED_IN</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e85" source="n51" target="n50" label="REFER_TO"><data key="label">REFER_TO</data><data key="label">REFER_TO</data></edge>
+<edge id="e86" source="n118" target="n117" label="WIFE_OF"><data key="label">WIFE_OF</data></edge>
+<edge id="e87" source="n19" target="n51" label="PAGE"><data key="label">PAGE</data><data key="label">PAGE</data></edge>
+<edge id="e88" source="n53" target="n55" label="REFER_TO"><data key="label">REFER_TO</data><data key="label">REFER_TO</data></edge>
+<edge id="e89" source="n52" target="n54" label="YEAR"><data key="label">YEAR</data><data key="label">YEAR</data><data key="type">BH</data></edge>
+<edge id="e90" source="n56" target="n53" label="PAGE"><data key="label">PAGE</data><data key="label">PAGE</data></edge>
+<edge id="e91" source="n68" target="n70" label="MOTHER_OF"><data key="label">MOTHER_OF</data><data key="label">MOTHER_OF</data></edge>
+<edge id="e92" source="n121" target="n119" label="TRAVELED_WITH"><data key="label">TRAVELED_WITH</data><data key="name">الرحيق المختوم</data><data key="source">Book</data><data key="page">87</data></edge>
+<edge id="e93" source="n55" target="n54" label="HAPPENED_IN"><data key="label">HAPPENED_IN</data><data key="name">الرحيق المختوم</data><data key="label">HAPPENED_IN</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e94" source="n52" target="n65" label="YEAR"><data key="label">YEAR</data><data key="label">YEAR</data><data key="type">BH</data></edge>
+<edge id="e95" source="n52" target="n62" label="YEAR"><data key="label">YEAR</data><data key="label">YEAR</data><data key="type">BH</data></edge>
+<edge id="e96" source="n69" target="n68" label="SLAVE_OF"><data key="label">SLAVE_OF</data><data key="name">الرحيق المختوم</data><data key="label">SLAVE_OF</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e97" source="n55" target="n62" label="HAPPENED_IN"><data key="label">HAPPENED_IN</data><data key="name">الرحيق المختوم</data><data key="label">HAPPENED_IN</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e98" source="n56" target="n61" label="LANGUAGE"><data key="label">LANGUAGE</data><data key="label">LANGUAGE</data></edge>
+<edge id="e99" source="n60" target="n56" label="AUTHOR_OF"><data key="label">AUTHOR_OF</data><data key="label">AUTHOR_OF</data></edge>
+<edge id="e100" source="n56" target="n58" label="LANGUAGE"><data key="label">LANGUAGE</data><data key="label">LANGUAGE</data></edge>
+<edge id="e101" source="n60" target="n56" label="TRANSLATED"><data key="label">TRANSLATED</data><data key="languageCode">Ur</data><data key="label">TRANSLATED</data></edge>
+<edge id="e102" source="n57" target="n56" label="PUBLISHED"><data key="label">PUBLISHED</data><data key="era">CE</data><data key="year">2021</data><data key="label">PUBLISHED</data></edge>
+<edge id="e103" source="n52" target="n63" label="YEAR"><data key="label">YEAR</data><data key="label">YEAR</data><data key="type">BH</data></edge>
+<edge id="e104" source="n70" target="n71" label="TRAVEL"><data key="label">TRAVEL</data><data key="name">الرحيق المختوم</data><data key="label">TRAVEL</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e105" source="n55" target="n63" label="HAPPENED_IN"><data key="label">HAPPENED_IN</data><data key="name">الرحيق المختوم</data><data key="label">HAPPENED_IN</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e106" source="n71" target="n64" label="TRAVELED_TO"><data key="label">TRAVELED_TO</data><data key="name">الرحيق المختوم</data><data key="label">TRAVELED_TO</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e107" source="n53" target="n71" label="REFER_TO"><data key="label">REFER_TO</data><data key="label">REFER_TO</data></edge>
+<edge id="e108" source="n66" target="n67" label="FATHER_OF"><data key="label">FATHER_OF</data><data key="label">FATHER_OF</data></edge>
+<edge id="e109" source="n71" target="n65" label="TRAVELED_IN"><data key="label">TRAVELED_IN</data><data key="name">الرحيق المختوم</data><data key="label">TRAVELED_IN</data><data key="page">86</data><data key="source">Book</data></edge>
+<edge id="e110" source="n67" target="n70" label="FATHER_OF"><data key="label">FATHER_OF</data><data key="label">FATHER_OF</data></edge>
+<edge id="e111" source="n71" target="n66" label="TRAVELED_WITH"><data key="label">TRAVELED_WITH</data><data key="name">الرحيق المختوم</data><data key="label">TRAVELED_WITH</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e112" source="n71" target="n68" label="TRAVELED_WITH"><data key="label">TRAVELED_WITH</data><data key="name">الرحيق المختوم</data><data key="label">TRAVELED_WITH</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e113" source="n68" target="n67" label="WIFE_OF"><data key="label">WIFE_OF</data><data key="label">WIFE_OF</data></edge>
+<edge id="e114" source="n71" target="n69" label="TRAVELED_WITH"><data key="label">TRAVELED_WITH</data><data key="name">الرحيق المختوم</data><data key="label">TRAVELED_WITH</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e115" source="n68" target="n73" label="DEATH"><data key="label">DEATH</data><data key="label">DEATH</data></edge>
+<edge id="e116" source="n73" target="n65" label="DIED_IN"><data key="label">DIED_IN</data><data key="name">الرحيق المختوم</data><data key="label">DIED_IN</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e117" source="n73" target="n72" label="DEATH_PLACE"><data key="label">DEATH_PLACE</data><data key="name">الرحيق المختوم</data><data key="label">DEATH_PLACE</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e118" source="n66" target="n74" label="TOOK_GUARDIAN_SHIP_OF_LAST_PROPHET"><data key="label">TOOK_GUARDIAN_SHIP_OF_LAST_PROPHET</data><data key="label">TOOK_GUARDIAN_SHIP_OF_LAST_PROPHET</data></edge>
+<edge id="e119" source="n74" target="n65" label="HAPPENED_IN"><data key="label">HAPPENED_IN</data><data key="name">الرحيق المختوم</data><data key="label">HAPPENED_IN</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e120" source="n75" target="n74" label="REFER_TO"><data key="label">REFER_TO</data><data key="label">REFER_TO</data></edge>
+<edge id="e121" source="n56" target="n75" label="PAGE"><data key="label">PAGE</data><data key="label">PAGE</data></edge>
+<edge id="e678" source="n118" target="n1423" label="DEATH"><data key="label">DEATH</data></edge>
+<edge id="e679" source="n1423" target="n115" label="DIED_IN"><data key="label">DIED_IN</data><data key="name">الرحيق المختوم</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e680" source="n1423" target="n1422" label="DEATH_PLACE"><data key="label">DEATH_PLACE</data><data key="name">الرحيق المختوم</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e681" source="n116" target="n1424" label="TOOK_GUARDIAN_SHIP_OF_LAST_PROPHET"><data key="label">TOOK_GUARDIAN_SHIP_OF_LAST_PROPHET</data></edge>
+<edge id="e682" source="n1424" target="n115" label="HAPPENED_IN"><data key="label">HAPPENED_IN</data><data key="name">الرحيق المختوم</data><data key="page">87</data><data key="source">Book</data></edge>
+<edge id="e683" source="n1425" target="n1424" label="REFER_TO"><data key="label">REFER_TO</data></edge>
+<edge id="e684" source="n40" target="n1425" label="PAGE"><data key="label">PAGE</data></edge>
+</graph>
+</graphml>
